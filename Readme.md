@@ -92,3 +92,4 @@ D:\Python39\python.exe main.py
 
 - 程序只在本机分析音频电平，**不录音、不保存音频文件、不上传数据**。
 - 程序为手动启动，未注册任何开机启动项；关闭窗口后进程即结束，无后台服务。
+- 该项目同步上传至国内Gitcode: https://gitcode.com/qq_41689536/Music_spectrum_PRO
